@@ -1,3 +1,4 @@
+#programmable by Belhaj Ayman MPSI2
 def trianglePascal(n):
     T = [[0] * (n+1) for p in range(n+1)]
     for p in range(n+1):
